@@ -1,6 +1,8 @@
 # /v1/analyze/sync
 This endpoint is responsible for IP analysis in a blocking (sync) fashion.
 
+The `percent` value shows the possibility of the IP being an anonymizer, out of 100. Automated action can be taken for values over `98` and it is better to flag the orders for manual review when the value is over `95`. It is your call to adapt the results to your own system.
+
 ## Example Request
 ```
 > GET /v1/analyze/sync?ip=1.2.3.4 HTTP/2
