@@ -5,4 +5,4 @@ The parent endpoint used for production versions of `1.y.z`.
 - [/analyze](analyze)
   - IP analysis endpoints.
 - [/demo](demo.md)
-  - An information debugging endpoint.
+  - An informational debugging endpoint.
