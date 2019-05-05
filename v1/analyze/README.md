@@ -11,5 +11,5 @@ URL Query:
 ## Endpoints
 - [/sync](sync.md)
   - Sync analysis endpoint. The analysis is supposed to complete in the same HTTP request-response cycle.
-- [/async](async.md) (WIP)
+- [/async](async.md)
   - Async analysis endpoint. The analysis is queued by the server, then a response is immediately returned.
