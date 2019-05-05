@@ -3,7 +3,7 @@
 It is designed from ground up to work both async and sync, meaning it is caller's responsibility to opt for
 a type for delivery of probing results.
 
-See IP Kit's privacy policy [here](PRIVACY.md).
+See IP Kit's privacy policy [here](PRIVACY.md) and fair usage policy [here](FAIR_USAGE.md).
 
 Follow a version below to see related endpoints for access to service.
 
