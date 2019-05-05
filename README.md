@@ -9,4 +9,6 @@ Follow a version below to see related endpoints for access to service.
 
 ## Versions
 - [v1](v1)
+<!--
 - [v2](v2)
+-->
