@@ -26,5 +26,5 @@ date: Wed, 01 May 2019 13:05:28 GMT
 server: LiteSpeed
 alt-svc: quic=":443"; ma=2592000; v="35,39,43,44"
 
-{"status":true,"detail":"OK","percent":0}⏎
+{"status":true,"detail":"OK","percent":0}
 ```
